@@ -1,2 +1,1 @@
-# templates
-templates for ertia
+# Templates
